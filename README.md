@@ -10,8 +10,8 @@ Get solutions of a specific problem quickly.
 ## Install Extension
 
 ```bash
-  git clone  https://github.com//cf-solution](https://github.com/ManojKumarPatnaik/Codeforces_Solutions.git)
-  cd cf-solution
+  git clone  https://github.com/ManojKumarPatnaik/Codeforces_Solutions.git
+  cd Codeforces_Solutions
 ```
 
 - After cloning, goto Extension settings in your Chrome browser.
