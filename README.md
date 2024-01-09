@@ -16,7 +16,7 @@ Get solutions of a specific problem quickly.
 
 - After cloning, goto Extension settings in your Chrome browser.
 - Enable `developer mode`.
-- Click on `load packed` and open `cf-solution` folder.
+- Click on `load packed` and open `Codeforces_Solutions` folder.
 
 
 
